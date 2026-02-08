@@ -1221,6 +1221,40 @@ a:active {
     grid-template-columns: 1fr;
   }
 }
+/* about-section */
+.about-section{
+    width: 100%;
+    max-width: 1120px;
+    margin-inline: auto;
+    padding-inline: 10px;
+    margin-block: 50px;
+}
+.about-section p{
+    color: #000;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+}
+.about-section ul{
+    padding-left: 20px;
+}
+.about-section ul li{
+    color: #000;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+}
+.about-section h2{
+     color: #000;
+    font-size: 25px;
+    line-height: 36px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 14px;
+}
 
 
 
